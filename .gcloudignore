@@ -1,0 +1,20 @@
+
+# **
+
+# !dist/**
+# !package.json
+# !package-lock.json
+# !gcloudignore
+# !scripts/**
+
+.gcloudignore
+.git/
+.github/
+.gitignore
+node_modules/
+src/
+tsconfig.json
+biome.json
+README.md
+.husky
+.vscode/
