@@ -21,7 +21,7 @@
   "type": "module",
   "dependencies": {
     "@google-cloud/functions-framework": "^4.0.1",
-    "@hono/node-server": "^1.19.6",
+    "@hono/node-server": "^1.19.7",
     "hono": "^4.10.7"
   },
   "devDependencies": {
